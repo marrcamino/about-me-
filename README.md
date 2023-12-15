@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @marrcamino
-- 👀 I’m interested in, discovering things, because I'm not developed yet?
-- 🌱 I’m currently learning, about programming languages
-- 💞️ I’m looking to collaborate on any project, char char lang, I'm just new here, and I do no how to use git
-- 📫 How to reach me? Mmmh, sorry but I forgot my social media accounts.
+- 👋 Hey there, I’m @marrcamino
+- 💪🏽 Let's make some wacky programs, day and night
+- 👶🏽 I’m still exploring new stuff like a toddler
+- 🙃 Looking to collaborate do to silly things
+- char charr lng 🙄
 
